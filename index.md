@@ -1,7 +1,7 @@
 ---
 ---
 
-# OS
+# Home
 
 Saya Ahmad Haulian Yoga Pratama, mahasiswa Fasilkom UI 2018.
 
